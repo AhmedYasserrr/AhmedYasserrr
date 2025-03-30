@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 
+- 👋 Hey there! I'm [Ahmed Gamea](https://www.linkedin.com/in/ahmed-gamea/) a **Software Engineer**
+- 👀 I am interested in Embedded Systems, Machine learning🤖, and Machine Vision.
 
-<!--
-**AhmedYasserrr/AhmedYasserrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/ahmed.gamea@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:omar.abdelgawad@ejust.edu.eg)](mailto:ahmed.gamea@ejust.edu.eg)
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYasserrr&theme=transparent"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![readme-stats](https://github-readme-stats.vercel.app/api?username=AhmedYasserrr&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYasserrr&theme=transparent&hide=Jupyter%20%Notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
