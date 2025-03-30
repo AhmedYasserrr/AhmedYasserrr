@@ -11,5 +11,10 @@
   </a>
 </div>
 
-[![readme-stats](https://github-readme-stats.vercel.app/api?username=AhmedYasserrr&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYasserrr&theme=transparent&hide=Jupyter%20%Notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYasserrr&theme=transparent&hide=Jupyter%20Notebook&langs_count=8&layout=compact"/>
+  </a>
+</div>
